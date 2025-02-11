@@ -1,0 +1,25 @@
+.main{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    background-color: #F6F2FF;
+}
+
+
+.btn{
+    border: 1px solid transparent;
+    border-radius: 4px ;
+    border-color: #4476E6 #8E54E9;
+    color: #8E54E9;
+}
+
+.btn:hover{
+    background-color: transparent;
+    border-color: #4476E6 #8E54E9;
+    color: #8E54E9;
+    background-color: #4476E6 #8E54E9;
+}
+
+.col img{
+    width:80%;
+}
